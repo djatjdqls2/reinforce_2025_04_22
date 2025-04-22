@@ -41,3 +41,5 @@ Sarsa&Q-learning_emp_q_compare
 homework1_sarsa_policy_heatmap
 
 Sarsa&Q-learning_emp_q_gamma_compare
+
+Sarsa&Q-learning_emp_q_gamma_ep_compare
